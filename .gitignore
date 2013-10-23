@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+tmp
+
+nbproject
+test/fixtures/piecrust/_cache/*
+test/fixtures/piecrust/_counter/*
